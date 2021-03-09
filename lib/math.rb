@@ -20,6 +20,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num1, num2)
+  num1 = 81
+  num2 = 64
  square_root = math.sqrt(num1)
  square_root = math.sqrt(num2)
 end
